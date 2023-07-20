@@ -4,7 +4,7 @@
 ### 🔭 My Interests
 - Back-end Development: Java , PostgreeSQL , Spring Boot
 - Front-end Development: HTML, CSS, JavaScript , React
-- [Any other areas of interest]
+
 
 ### 🌱 Learning Journey
 I've been on an exciting learning journey at SENAI, where I've gained valuable knowledge and hands-on experience in web development. I'm eager to continue expanding my skills and diving deeper into the world of programming.
